@@ -1,0 +1,17 @@
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\bin\Debug\net7.0\Practice.Infrastructure.deps.json
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\bin\Debug\net7.0\Practice.Infrastructure.runtimeconfig.json
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\bin\Debug\net7.0\Practice.Infrastructure.dll
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\bin\Debug\net7.0\Practice.Infrastructure.pdb
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\bin\Debug\net7.0\Practice.Domain.dll
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\bin\Debug\net7.0\Practice.Domain.pdb
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\obj\Debug\net7.0\Practice.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\obj\Debug\net7.0\Practice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\obj\Debug\net7.0\Practice.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\obj\Debug\net7.0\Practice.Infrastructure.AssemblyInfo.cs
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\obj\Debug\net7.0\Practice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\obj\Debug\net7.0\Practice.Infrastructure.csproj.CopyComplete
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\obj\Debug\net7.0\Practice.Infrastructure.dll
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\obj\Debug\net7.0\refint\Practice.Infrastructure.dll
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\obj\Debug\net7.0\Practice.Infrastructure.pdb
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\obj\Debug\net7.0\Practice.Infrastructure.genruntimeconfig.cache
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Infrastructure\obj\Debug\net7.0\ref\Practice.Infrastructure.dll

@@ -1,0 +1,14 @@
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\bin\Debug\net7.0\Practice.Domain.deps.json
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\bin\Debug\net7.0\Practice.Domain.runtimeconfig.json
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\bin\Debug\net7.0\Practice.Domain.dll
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\bin\Debug\net7.0\Practice.Domain.pdb
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\obj\Debug\net7.0\Practice.Domain.csproj.AssemblyReference.cache
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\obj\Debug\net7.0\Practice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\obj\Debug\net7.0\Practice.Domain.AssemblyInfoInputs.cache
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\obj\Debug\net7.0\Practice.Domain.AssemblyInfo.cs
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\obj\Debug\net7.0\Practice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\obj\Debug\net7.0\Practice.Domain.dll
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\obj\Debug\net7.0\refint\Practice.Domain.dll
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\obj\Debug\net7.0\Practice.Domain.pdb
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\obj\Debug\net7.0\Practice.Domain.genruntimeconfig.cache
+C:\Users\CS-LC-03\source\practice\PracticeJWTApi\Practice.Domain\obj\Debug\net7.0\ref\Practice.Domain.dll
